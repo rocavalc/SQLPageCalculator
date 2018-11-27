@@ -1,5 +1,5 @@
 # SQLPageCalculator
-Simple Python project to read the number of SQL Server logical reads and convert them to Gigabytes. 
+Simple Python project to read the number of SQL Server logical reads during a query execution and convert them to Gigabytes. 
 
 How to use it?
 - in SQL Server Management Studio, run the query you want to investigate like this:
