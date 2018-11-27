@@ -5,7 +5,9 @@ How to use it?
 - in SQL Server Management Studio, run the query you want to investigate like this:
 
 SET STATISTICS IO, TIME ON
+
 -- query goes here
+
 SET STATISTICS IO, TIME OFF
 
 Copy the results from the tab "Messages" (right by the "results" tab) and paste them to a text file.
